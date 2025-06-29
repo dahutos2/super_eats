@@ -1,0 +1,35 @@
+{
+  "name": "タコライス",
+  "itemList": [
+    {
+      "name": "オリーブオイル",
+      "price": 30,
+      "images": "olive-oil.jpeg"
+    },
+    {
+      "name": "合挽き肉",
+      "price": 100,
+      "images": "minced-meat.jpeg"
+    },
+    {
+      "name": "カレー粉",
+      "price": 30,
+      "images": "curry-powder.jpeg"
+    },
+    {
+      "name": "ウスターソース",
+      "price": 20,
+      "images": "worcestershire-sause.jpeg"
+    },
+    {
+      "name": "ケチャップ",
+      "price": 10,
+      "images": "ketchup.jpeg"
+    },
+    {
+      "name": "ニンニク",
+      "price": 10,
+      "images": "garlic.jpg"
+    }
+  ]
+}

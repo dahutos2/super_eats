@@ -1,0 +1,30 @@
+{
+  "name": "カレーライス",
+  "itemList": [
+    {
+      "name": "カレールー",
+      "price": 30,
+      "images": "curry-roux.jpg"
+    },
+    {
+      "name": "牛肉",
+      "price": 100,
+      "images": "beef.jpg"
+    },
+    {
+      "name": "玉ねぎ",
+      "price": 30,
+      "images": "onion.jpg"
+    },
+    {
+      "name": "人参",
+      "price": 20,
+      "images": "carrot.jpg"
+    },
+    {
+      "name": "ニンニク",
+      "price": 10,
+      "images": "garlic.jpg"
+    }
+  ]
+}

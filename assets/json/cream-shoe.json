@@ -1,0 +1,35 @@
+{
+  "name": "クリームシチュー",
+  "itemList": [
+    {
+      "name": "牛乳",
+      "price": 30,
+      "images": "milk.jpeg"
+    },
+    {
+      "name": "クリームシチューの元",
+      "price": 30,
+      "images": "cream-stew-mix.jpeg"
+    },
+    {
+      "name": "牛肉",
+      "price": 100,
+      "images": "beef.jpg"
+    },
+    {
+      "name": "玉ねぎ",
+      "price": 30,
+      "images": "onion.jpg"
+    },
+    {
+      "name": "人参",
+      "price": 20,
+      "images": "carrot.jpg"
+    },
+    {
+      "name": "ブロッコリー",
+      "price": 10,
+      "images": "broccoli.jpeg"
+    }
+  ]
+}
